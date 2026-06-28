@@ -23,11 +23,11 @@ Un sistema integral diseñado para la resolución, análisis y estudio pedagógi
 * **Análisis de Sensibilidad (Post-Óptimo):** Interpretación económica de los recursos, traduciendo variables matemáticas en lógicas de negocio, como Precios Sombra y holguras.
 
 ## 📌 Estado del Proyecto
-**Versión Actual:** 1.0.0 (Producción)
+**Versión Actual:** 1.0.0 (Producción)  
 El motor algorítmico se encuentra 100% operativo y optimizado. Ha superado con éxito rigurosas pruebas de estrés académico, resolviendo correctamente escenarios de falsa optimalidad y degeneración.
 
 ## 📲 Instalación de la app
-**Próximamente en AppsTore y PlayStore**
+**Próximamente en AppsTore y PlayStore**  
 La app se subirá a las respectivas tiendas en su momento luego de finalizar algunos detalles.
 
 ---
