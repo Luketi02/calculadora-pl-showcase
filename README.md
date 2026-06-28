@@ -2,12 +2,6 @@
 
 Un sistema integral diseñado para la resolución, análisis y estudio pedagógico de problemas de Programación Lineal. Desarrollado con un enfoque estricto en la precisión matemática y la experiencia del usuario, evitando las limitaciones y los errores de redondeo de las calculadoras genéricas.
 
-## 📸 Interfaz y Demostración
-> *(Espacio reservado para demostrar el funcionamiento del sistema)*
-* 🖼️ **[Insertar captura de pantalla de la tabla Simplex]**
-* 🖼️ **[Insertar GIF de la Calculadora Reactiva de Renglones en uso]**
-* 🖼️ **[Insertar captura del renderizado del Método Gráfico]**
-
 ## 🛠️ Stack Tecnológico
 * **Frontend / Framework:** Flutter (Dart).
 * **Arquitectura:** Diseño reactivo basado en estado.
@@ -30,7 +24,11 @@ Un sistema integral diseñado para la resolución, análisis y estudio pedagógi
 
 ## 📌 Estado del Proyecto
 **Versión Actual:** 1.0.0 (Producción)
-El motor algorítmico se encuentra 100% operativo y optimizado. Ha superado con éxito rigurosas pruebas de estrés académico, resolviendo correctamente escenarios de falsa optimalidad y degeneración. 
+El motor algorítmico se encuentra 100% operativo y optimizado. Ha superado con éxito rigurosas pruebas de estrés académico, resolviendo correctamente escenarios de falsa optimalidad y degeneración.
+
+## 📲 Instalación de la app
+**Próximamente en AppsTore y PlayStore**
+La app se subirá a las respectivas tiendas en su momento luego de finalizar algunos detalles.
 
 ---
 
